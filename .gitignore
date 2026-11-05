@@ -1,0 +1,19 @@
+node_modules/
+dist/
+build/
+.vercel/
+
+.env
+.env.*
+!.env.example
+
+*.log
+.DS_Store
+Thumbs.db
+
+# Local App Builder workspace configuration and generated previews
+.grok/
+.node_modules.lock
+AGENTS.md
+screenshots/
+artifacts/
